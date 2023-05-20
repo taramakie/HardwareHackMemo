@@ -30,3 +30,9 @@
 - Ground planeなどが書いてあるのは珍しい
     - https://0x434b.dev/linksys-ea6100_pt1/
     - https://0x434b.dev/linksys-ea6100_pt2/
+
+## TP-Link Webカメラ
+- https://www.hacefresko.com/posts/tp-link-tapo-c200-unauthenticated-rce
+- TP-LinkのWebカメラのRCEについての解説記事
+- RCEを見つける際にsystemやexec、popenなどを探すのは大事な観点
+- 記事中ではシングルクォートの検証が入っていなかったset_language関数のpopenを使ってOSコマンドインジェクションしている
