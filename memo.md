@@ -36,3 +36,6 @@
 - TP-LinkのWebカメラのRCEについての解説記事
 - RCEを見つける際にsystemやexec、popenなどを探すのは大事な観点
 - 記事中ではシングルクォートの検証が入っていなかったset_language関数のpopenを使ってOSコマンドインジェクションしている
+
+## Ciscoの偽物のデバイスの解析
+- https://labs.withsecure.com/content/dam/labs/docs/2020-07-the-fake-cisco.pdf
